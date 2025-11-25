@@ -35,6 +35,8 @@ tools:
     source: serverless-spark-source
   create_spark_batch:
     kind: serverless-spark-create-spark-batch
+  get_session_template:
+    kind: serverless-spark-get-session-template
     source: serverless-spark-source
 
 toolsets:
@@ -45,3 +47,4 @@ toolsets:
     - get_session_template
     - create_pyspark_batch
     - create_spark_batch
+    - get_session_template

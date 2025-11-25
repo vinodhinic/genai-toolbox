@@ -205,6 +205,9 @@ func TestGetPrebuiltTool(t *testing.T) {
 	if len(snowflake_config) <= 0 {
 		t.Fatalf("unexpected error: could not fetch snowflake prebuilt tools yaml")
 	}
+	if len(serverlessspark_config) <= 0 {
+		t.Fatalf("unexpected error: could not fetch serverless spark prebuilt tools yaml")
+	}
 	if len(spanner_config) <= 0 {
 		t.Fatalf("unexpected error: could not fetch spanner prebuilt tools yaml")
 	}
