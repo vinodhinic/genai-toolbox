@@ -9423,7 +9423,7 @@ Create a Serverless Spark Java batch operation.&lt;/li>
 List and filter Serverless Spark sessions.&lt;/li>
 &lt;li>&lt;a href="https://vinodhinic.github.io/genai-toolbox/dev/resources/tools/serverless-spark/serverless-spark-get-session/">&lt;code>serverless-spark-get-session&lt;/code>&lt;/a>
 Get a Serverless Spark session.&lt;/li>
-&lt;li>&lt;a href="../tools/serverless-spark/serverless-spark-get-session-template.md">&lt;code>serverless-spark-get-session-template&lt;/code>&lt;/a>
+&lt;li>&lt;a href="https://vinodhinic.github.io/genai-toolbox/dev/resources/tools/serverless-spark/serverless-spark-get-session-template/">&lt;code>serverless-spark-get-session-template&lt;/code>&lt;/a>
 Get a Serverless Spark session template.&lt;/li>
 &lt;/ul>
 &lt;h2 id="requirements">Requirements&lt;/h2>
@@ -9517,12 +9517,12 @@ following sources:&lt;/p>
  &lt;td>List of auth services required to invoke this tool&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>serverless-spark-get-session-template</title><link>https://vinodhinic.github.io/genai-toolbox/dev/resources/tools/serverless-spark/docs/en/resources/tools/serverless-spark/serverless-spark-get-session-template/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vinodhinic.github.io/genai-toolbox/dev/resources/tools/serverless-spark/docs/en/resources/tools/serverless-spark/serverless-spark-get-session-template/</guid><description>&lt;h2 id="about">About&lt;/h2>
+&lt;/table></description></item><item><title>serverless-spark-get-session-template</title><link>https://vinodhinic.github.io/genai-toolbox/dev/resources/tools/serverless-spark/serverless-spark-get-session-template/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vinodhinic.github.io/genai-toolbox/dev/resources/tools/serverless-spark/serverless-spark-get-session-template/</guid><description>&lt;h2 id="about">About&lt;/h2>
 &lt;p>A &lt;code>serverless-spark-get-session-template&lt;/code> tool retrieves a specific Spark session template from a
 Google Cloud Serverless for Apache Spark source. It&amp;rsquo;s compatible with the
 following sources:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="../../sources/serverless-spark.md">serverless-spark&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vinodhinic.github.io/genai-toolbox/dev/resources/sources/serverless-spark/">serverless-spark&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;code>serverless-spark-get-session-template&lt;/code> accepts the following parameters:&lt;/p>
 &lt;ul>
